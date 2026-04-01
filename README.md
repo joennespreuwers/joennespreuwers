@@ -1,7 +1,7 @@
 # Hi there stranger! :wave:
 ## :rocket: About Me
 
-:mortar_board: Hi, my name is **Joenne Spreuwers**, a 18y/o Belgian student that loves the world of computers. I'm currenly studying **Industrial Engineering** at **KU Leuven**.
+:mortar_board: Hi, my name is **Joenne Spreuwers**, a 20y/o Belgian student that loves the world of computers. I'm currenly studying **Industrial Engineering** at **KU Leuven**.
 
 :floppy_disk: I'm pretty comfortable with **Python**, nothing too fancy. I've got a sweet [homelab](#home-lab) where I play around with some **containers**. Feel free to check out some of my sites using the [links](#links) below!
 
